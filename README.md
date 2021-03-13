@@ -22,7 +22,7 @@ My name is Tej!😄 and I'm a software developer/engineer. You can find me on [!
 </a>
 
 <a href="https://github.com/kushtej/kan-language-modeling">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kushtej&repo=42-Silicon_Valley&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kushtej&repo=kan-language-modeling&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
