@@ -21,14 +21,22 @@ My name is Tej!😄 and I'm a software developer/engineer. You can find me on [!
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kushtej&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kushtej's GitHub Stats" />
 </a>
 
+
 <a href="https://github.com/kushtej/kan-language-modeling">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kushtej&repo=kan-language-modeling&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
+    
 <a href="https://github.com/kushtej/kushtej.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kushtej&repo=kushtej.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>  
+<a href="https://github.com/kushtej/login-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kushtej&repo=login-system&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
+
+<a href="https://github.com/kushtej/my-miscellaneous-projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kushtej&repo=my-miscellaneous-projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <!-- links to social media icons -->
 
